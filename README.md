@@ -1,4 +1,4 @@
-# ML_Ski_Resorts_Price_Prediction
+# Ski Resorts Price Analysis and Prediction
 
 ![screenshots1](images/ski.jpeg?raw=true)
 
