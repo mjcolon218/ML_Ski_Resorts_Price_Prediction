@@ -1,6 +1,7 @@
 # ML_Ski_Resorts_Price_Prediction
 
 ![screenshots1](images/ski.jpeg?raw=true)
+
 Welcome to ML_Ski_ResortsPrice_Predictor, an open-source data analysis and machine learning project! This repository hosts a comprehensive analysis of a real-world dataset, showcasing the entire data science pipeline from data exploration to model building.
 ## Overview of the Dataset
 #### The dataset includes various features of ski resorts across Europe, such as elevation points, slope lengths, lift counts, and amenities like snowparks and night skiing. It provides a comprehensive view of these resorts' characteristics.
